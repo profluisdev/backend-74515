@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 873,
-      "versionNonce": 1619866827,
+      "version": 960,
+      "versionNonce": 719286717,
       "isDeleted": false,
       "id": "gqsojWCR0_int2X1BHRA9",
       "fillStyle": "hachure",
@@ -15,14 +15,15 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": -11.254481724330276,
-      "y": 800.4197431291852,
+      "x": -1.7788521411169995,
+      "y": 787.9439346216509,
       "strokeColor": "#000000",
       "backgroundColor": "#fa5252",
       "width": 39.66145324707032,
       "height": 34.81770706176757,
       "seed": 1453272512,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 3
       },
@@ -32,14 +33,14 @@
           "id": "rCOZdbAbYSCoBc9IvHHrt"
         }
       ],
-      "updated": 1687811437548,
+      "updated": 1724710612162,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 421,
-      "versionNonce": 564498789,
+      "version": 508,
+      "versionNonce": 1759785501,
       "isDeleted": false,
       "id": "rCOZdbAbYSCoBc9IvHHrt",
       "fillStyle": "hachure",
@@ -48,17 +49,18 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 3.5762448992048803,
-      "y": 806.328596660069,
+      "x": 13.051874482418157,
+      "y": 793.8527881525347,
       "strokeColor": "#000000",
       "backgroundColor": "#fa5252",
       "width": 10,
       "height": 23,
       "seed": 610342464,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1687811437548,
+      "updated": 1724710612162,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -73,8 +75,8 @@
     },
     {
       "type": "rectangle",
-      "version": 806,
-      "versionNonce": 1648517995,
+      "version": 914,
+      "versionNonce": 2041169885,
       "isDeleted": false,
       "id": "d3CoBz6c_wbvWN9w0LIrX",
       "fillStyle": "hachure",
@@ -83,14 +85,15 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": -69.53841618129178,
-      "y": 799.7984534672327,
+      "x": 52.625133816690095,
+      "y": 785.0985134031234,
       "strokeColor": "#000000",
       "backgroundColor": "#fa5252",
       "width": 39.66145324707032,
       "height": 34.81770706176757,
       "seed": 1453272512,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 3
       },
@@ -100,14 +103,14 @@
           "id": "QGM78KUHJ6afGNGtwkF9O"
         }
       ],
-      "updated": 1687811437548,
+      "updated": 1724710613213,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 382,
-      "versionNonce": 605560005,
+      "version": 490,
+      "versionNonce": 876528701,
       "isDeleted": false,
       "id": "QGM78KUHJ6afGNGtwkF9O",
       "fillStyle": "hachure",
@@ -116,17 +119,18 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": -54.70768955775662,
-      "y": 805.7073069981165,
+      "x": 67.45586044022525,
+      "y": 791.0073669340072,
       "strokeColor": "#000000",
       "backgroundColor": "#fa5252",
       "width": 10,
       "height": 23,
       "seed": 458110528,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1687811437548,
+      "updated": 1724710613213,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -162,6 +166,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 3
       },
@@ -193,6 +198,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -239,6 +245,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -285,6 +292,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -331,6 +339,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -377,6 +386,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -423,6 +433,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -469,6 +480,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -515,6 +527,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -561,6 +574,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -607,6 +621,7 @@
         "T_gBR9HkJxhqPvWiBhHvO",
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -652,6 +667,7 @@
       "groupIds": [
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811437548,
@@ -686,6 +702,7 @@
       "groupIds": [
         "4EWnQ2KvgLgqGjENwYCBb"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811437548,
@@ -724,6 +741,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811431742,
@@ -759,6 +777,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -809,6 +828,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [
         {
@@ -852,6 +872,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -902,6 +923,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [
         {
@@ -945,6 +967,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -991,6 +1014,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811431742,
@@ -1029,6 +1053,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1075,6 +1100,7 @@
         "M5oLORPkGBf-Y5OKO5OtF",
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811431742,
@@ -1112,6 +1138,7 @@
       "groupIds": [
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": {
         "type": 3
       },
@@ -1147,6 +1174,7 @@
       "groupIds": [
         "TYHjo28DX1wiOAMT8fN5R"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811431742,
@@ -1184,6 +1212,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": {
         "type": 3
       },
@@ -1219,6 +1248,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811418583,
@@ -1256,6 +1286,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811418583,
@@ -1290,6 +1321,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1339,6 +1371,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1388,6 +1421,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1437,6 +1471,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [
         {
@@ -1479,6 +1514,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [
         {
@@ -1521,6 +1557,7 @@
       "groupIds": [
         "JoJ6BTdEtQMPjFEMfg-S5"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [
         {
@@ -1564,6 +1601,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [
         {
@@ -1607,6 +1645,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1653,6 +1692,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1699,6 +1739,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1745,6 +1786,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -1792,6 +1834,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -1859,6 +1902,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -1916,6 +1960,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -1975,6 +2020,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2034,6 +2080,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2093,6 +2140,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2152,6 +2200,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2209,6 +2258,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2262,6 +2312,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2318,6 +2369,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2356,6 +2408,7 @@
         "z4GjoPhm2vsd8i1sdNMvX",
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -2405,6 +2458,7 @@
       "groupIds": [
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1687811382699,
@@ -2421,41 +2475,42 @@
       "baseline": 110
     },
     {
-      "id": "R8wK6y-e42MhiUsZkah20",
       "type": "text",
-      "x": -256.0660226601917,
-      "y": -72.501103356756,
-      "width": 745.7916870117188,
-      "height": 67.40448682061557,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 164,
+      "versionNonce": 1901341739,
+      "isDeleted": false,
+      "id": "R8wK6y-e42MhiUsZkah20",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": -256.0660226601917,
+      "y": -72.501103356756,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 745.7916870117188,
+      "height": 67.40448682061557,
+      "seed": 846612741,
       "groupIds": [
         "h2VhFax5HO0fTMmvezCu9"
       ],
+      "frameId": null,
       "roundness": null,
-      "seed": 846612741,
-      "version": 164,
-      "versionNonce": 1901341739,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1687811382699,
       "link": null,
       "locked": false,
-      "text": "Una variable es un espacio reservado en la memoria que, como su nombre indica, \npuede cambiar de contenido a lo largo de la ejecución de un programa.\nEn las variables almacenamos diversos tipos de datos que utilizamos en la aplicación.",
       "fontSize": 19.53753241177263,
       "fontFamily": 2,
+      "text": "Una variable es un espacio reservado en la memoria que, como su nombre indica, \npuede cambiar de contenido a lo largo de la ejecución de un programa.\nEn las variables almacenamos diversos tipos de datos que utilizamos en la aplicación.",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 62,
       "containerId": null,
       "originalText": "Una variable es un espacio reservado en la memoria que, como su nombre indica, \npuede cambiar de contenido a lo largo de la ejecución de un programa.\nEn las variables almacenamos diversos tipos de datos que utilizamos en la aplicación.",
-      "lineHeight": 1.15
+      "lineHeight": 1.15,
+      "baseline": 62
     }
   ],
   "appState": {
